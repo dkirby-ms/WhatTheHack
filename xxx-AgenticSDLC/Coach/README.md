@@ -1,8 +1,8 @@
-# What The Hack - AgenticSDLC - Coach Guide
+# What The Hack - Agentic Software Development and DevOps - Coach Guide
 
 ## Introduction
 
-Welcome to the coach's guide for the AgenticSDLC What The Hack. Here you will find links to specific guidance for coaches for each of the challenges.
+Welcome to the coach's guide for the Agentic Software Development and DevOps What The Hack. Here you will find links to specific guidance for coaches for each of the challenges.
 
 This hack includes an optional [lecture presentation](Lectures.pptx) that features short presentations to introduce key topics associated with each challenge. It is recommended that the host present each short presentation before attendees kick off that challenge.
 
